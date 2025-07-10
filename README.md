@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Ethical Hacking & Cybersecurity Projects**
 - 🌱 I’m currently learning **Kali Linux, Python Security Tools, and Bug Bounty**
 - 💬 Ask me about **Networking, Linux, or Cyber Tools**
-- 📫 How to reach me: sabeel@example.com
+- 📫 How to reach me: sabeel2311@gmail.com
 - ⚡ Fun fact: I love finding bugs and fixing them!
 
 ---
