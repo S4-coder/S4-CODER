@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sabeel Ahmed</h1>
 
-- 🔭 I’m currently working on **Ethical Hacking & Cybersecurity Projects**
-- 🌱 I’m currently learning **Kali Linux, Python Security Tools, and Bug Bounty**
-- 💬 Ask me about **Networking, Linux, or Cyber Tools**
+- 🔭 I’m currently working on **python project & Backend Devloper**
+- 🌱 I’m currently learning **python & DSA**
+- 💬 Ask me about **tips % tricks**
 - 📫 How to reach me: sabeel2311@gmail.com
-- ⚡ Fun fact: I love finding bugs and fixing them!
+- ⚡ Fun fact: I love solving problem
 
 ---
 
