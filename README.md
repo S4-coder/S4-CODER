@@ -12,10 +12,11 @@ I’m currently building **Python-based backend projects**, with a primary focus
 
 ---
 
-### 🔧 Skills & Tools  
-| 🛠️ Tech Stack | | |
-|------------------|----------------|------------------|
-| Python           | Bash           | VS Code          |
+### 🔧 Skills & Tech Stack  
+| 🛠️ Languages & Tools | | | |
+|------------------|----------------|------------------|------------------|
+| Python           | HTML           | CSS              | JavaScript       |
+| Bash             | VS Code        | Git & GitHub     | Postman *(optional)* |
 
 ---
 
