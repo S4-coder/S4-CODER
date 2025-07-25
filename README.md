@@ -39,24 +39,6 @@ Problem solving is my superpower—I enjoy crafting clean, efficient code.
 
 ---
 
-### 📂 Pinned Projects  
-<!-- Replace with your actual projects from GitHub -->
-- **`todo-api`** – A RESTful API built with Python & Flask for managing tasks  
-- **`node-chat-app`** – Real-time group chat app using Node.js & Socket.io  
-- **`Gradient-Descent`** – Jupyter notebooks demonstrating optimization algorithms  
-- **`movie_db`** – Simple database-driven movie catalog web app  
-
-*(You can customize this list with project descriptions, demo links, metrics like ⭐ stars, or screenshots.)*
-
----
-
-### 🚀 What’s Next?  
-- Implementing **advanced backend features** like authentication, caching, and API versioning  
-- Diving deeper into **DSA challenges and competitive programming**  
-- Launching a portfolio or blog to showcase projects and learnings  
-
----
-
 ### ⭐ GitHub Profile Enhancements
 - Add **status cards** and **language stats** using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
 - Use **shields/badges** for technologies, email, profiles, and languages  
@@ -64,6 +46,3 @@ Problem solving is my superpower—I enjoy crafting clean, efficient code.
 - Optional: add a “currently learning” status or contribution insights
 
 ---
-
-**Feel free to copy this into your `README.md`** and personalize it even more. Let me know if you’d like badges, emojis, or another tone—happy to refine further!
-::contentReference[oaicite:0]{index=0}
