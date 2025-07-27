@@ -29,7 +29,7 @@ I’m currently building **Python-based backend projects**, with a primary focus
 
 ### ✉️ Let’s Connect  
 - 📧 Email: <sabeel2311@gmail.com>
-- 
+
 ---
 
 ### ⚡ Fun Fact  
