@@ -28,11 +28,8 @@ I’m currently building **Python-based backend projects**, with a primary focus
 ---
 
 ### ✉️ Let’s Connect  
-- 📧 Email: <sabeel2311@gmail.com>  
-- 🔗 [LinkedIn](https://linkedin.com/) — feel free to share your profile link!  
-- 🎥 [YouTube](https://youtube.com/) — if you create tutorials  
-- 💬 Discord: your Discord handle (optional)  
-
+- 📧 Email: <sabeel2311@gmail.com>
+- 
 ---
 
 ### ⚡ Fun Fact  
@@ -46,4 +43,3 @@ Problem solving is my superpower—I enjoy crafting clean, efficient code.
 - Include a screenshot or diagram showcasing a project or architecture  
 - Optional: add a “currently learning” status or contribution insights
 
----
