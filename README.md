@@ -1,15 +1,13 @@
 # 👋 Hi there, I’m **Sabeel Ahmed** (S4‑coder)
 
 ### 🔭 What I’m Working On  
-I’m currently building **Python-based backend projects**, with a primary focus on server-side development and system optimization.
+I’m currently building **Python & Web development based projects**, with a primary focus on development and system optimization.
 
 ---
 
 ### 🌱 I’m Learning & Exploring  
-- Advanced **Python** techniques & frameworks  
-- **Data Structures & Algorithms (DSA)** for problem-solving  
-- Backend architectures like REST APIs, microservices, and database optimization
-
+- Advanced **Python & web dev** techniques & frameworks  
+- solving problems & knowledge
 ---
 
 ### 🔧 Skills & Tech Stack  
@@ -21,8 +19,8 @@ I’m currently building **Python-based backend projects**, with a primary focus
 ---
 
 ### 💬 Talk to Me About  
-- Tips & tricks for learning Python & DSA  
-- Best practices for backend development and clean code  
+- Tips & tricks for Web Development  
+- Best practices for Web Dev and clean code  
 - Project ideas, debugging strategies, and algorithmic thinking
 
 ---
