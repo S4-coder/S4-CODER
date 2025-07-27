@@ -29,17 +29,8 @@ I’m currently building **Python-based backend projects**, with a primary focus
 
 ### ✉️ Let’s Connect  
 - 📧 Email: <sabeel2311@gmail.com>
-
 ---
 
 ### ⚡ Fun Fact  
 Problem solving is my superpower—I enjoy crafting clean, efficient code.
-
----
-
-### ⭐ GitHub Profile Enhancements
-- Add **status cards** and **language stats** using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
-- Use **shields/badges** for technologies, email, profiles, and languages  
-- Include a screenshot or diagram showcasing a project or architecture  
-- Optional: add a “currently learning” status or contribution insights
 
