@@ -35,21 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabeelcodes&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeelcodes&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeelcodes&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: **sabeel2311@gmail.com**
 - 📸 Instagram: **@sabeelcodes**
