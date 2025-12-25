@@ -35,13 +35,7 @@
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: **sabeel2311@gmail.com**
-- 📸 Instagram: **@sabeelcodes**
-- ▶️ YouTube: **sabeelcodes**
-- 💬 WhatsApp: *Click the button above*
 
----
 
 <p align="center">
   <strong>⭐ If you like my work, consider giving a star to my repositories!</strong>
