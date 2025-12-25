@@ -38,7 +38,7 @@
 ## 📫 Connect With Me
 - 📧 Email: **sabeel2311@gmail.com**
 - 📸 Instagram: **@sabeelcodes**
-- ▶️ YouTube: **Programming With Sabeel**
+- ▶️ YouTube: **sabeelcodes**
 - 💬 WhatsApp: *Click the button above*
 
 ---
