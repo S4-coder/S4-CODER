@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 - 🎓 BCA Graduate with a strong foundation in computer science  
 - 💻 Passionate about **programming, problem-solving, and building real-world projects**  
-- 🚀 Actively learning and improving skills in **Web Development & Software Engineering**  
+- 🚀 Actively learning and improving skills in **LLM, AGENTI AI, GANERATIVE AI, & SYSTEM DESIGN, DATA BASED**  
 - 📚 Believe in *learning by building*  
 
 ---
