@@ -1,5 +1,5 @@
 <h1 align="center">Hey There! 👋 I'm Sabeel Ahmed</h1>
-<h3 align="center">BCA Graduate | Passionate Programmer | Problem Solver</h3>
+<h3 align="center">Full Stack Developer (MERN + Next.js + AI) | BCA Graduate | Passionate Programmer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@sabeelcodes">
@@ -21,21 +21,20 @@
 ## 👨‍💻 About Me
 - 🎓 BCA Graduate with a strong foundation in computer science  
 - 💻 Passionate about **programming, problem-solving, and building real-world projects**  
-- 🚀 Actively learning and improving skills in **LLM, AGENTI AI, GANERATIVE AI, & SYSTEM DESIGN, DATA BASED**  
-- 📚 Believe in *learning by building*  
+- 🚀 Skilled in **MERN Stack, Next.js, and AI-powered applications**  
+- 📚 Completed **Full Stack Developer (MERN + Next.js + AI) Course**  
+- 🌱 Believe in *learning by building*  
 
 ---
 
 ## 🛠 Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width="70%" src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js,py,git,github,postgres,linux,vscode,rust" />
+    <img width="90%" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,html,css,bootstrap,js,py,git,github,postgres,linux,vscode,rust" />
   </a>
 </p>
 
 ---
-
-
 
 <p align="center">
   <strong>⭐ If you like my work, consider giving a star to my repositories!</strong>
